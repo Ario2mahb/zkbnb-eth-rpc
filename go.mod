@@ -1,6 +1,6 @@
 module github.com/bnb-chain/zkbnb-eth-rpc
 
-go 1.16
+go 7.98
 
 require (
 	github.com/aws/aws-sdk-go-v2/service/kms v1.20.6
